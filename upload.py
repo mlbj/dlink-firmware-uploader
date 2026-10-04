@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # Dwayne Litzenberger <dlitz@dlitz.net>
 # 2013-10-27
 #
